@@ -1,0 +1,15 @@
+#For scheduler
+
+/usr/src/kernel-source-2.4.27/kernel/sched.c
+/usr/src/kernel-source-2.4.27/include/linux/sched.h 
+
+
+
+#For system call
+/usr/include/linux/set_fss_flag.h
+/usr/include/asm/unistd.h 
+/usr/src/kernel-source-2.4.27/include/linux/set_fss_flag.h
+/usr/src/kernel-source-2.4.27/include/asm-i386/unistd.h 
+/usr/src/kernel-source-2.4.27/arch/i386/kernel/entry.S
+/usr/src/kernel-source-2.4.27/fs/set_fss_flag.c
+/usr/src/kernel-source-2.4.27/fs/Makefile
